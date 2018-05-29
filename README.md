@@ -4,7 +4,7 @@
 Consider this to be a resource for the Islandora testing process for an Islandora 7.x release. This repository includes:
 
 * Relevant links for the testing manager
-* Basic test material for various Islandora components - if you wish to contribute test material, try to keep it generic as possible and not specific to any Islandora implementation
+* Basic test material for various Islandora components
 * Email templates for the Islandora Testing Manager
 
 ## Links
@@ -21,7 +21,14 @@ Consider this to be a resource for the Islandora testing process for an Islandor
 ### Sample Content
 * https://github.com/Islandora-Collaboration-Group/islandora-sample-objects
 * https://github.com/mjordan/islandora_scg
+* https://github.com/kimpham54/islandora_release_testing/tree/master/test_material (this repository)
 
 ### Testing Templates
 * Islandora testing templates: https://docs.google.com/spreadsheets/d/1QoMGcDE6T0Im9Pbs1OHC9_rkcjyren71yjAlHdfO-O0
 * https://gist.github.com/d-r-p/c3c451b239f4267c0e49cb564c3adcc0
+
+## How to contribute
+Feel free to contribute to this repository with your test content, documentation, links, and other relevant resources.
+
+If you wish to contribute test material, try to keep it generic as possible and not specific to any Islandora implementation
+
